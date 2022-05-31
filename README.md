@@ -1,2 +1,2 @@
-# SOAP_WebService_SEPASYSTEM (Search Pasien System)
+# SOAP_WebService
 SEPASYSTEM (Search Pasien System)
